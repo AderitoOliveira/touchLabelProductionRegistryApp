@@ -1,2 +1,0 @@
-# touchLabelProductionRegistryApp
-Application for Production Registry
